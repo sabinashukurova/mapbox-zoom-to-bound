@@ -9,3 +9,5 @@ To Run Example
 and App.tsx
 
 mapboxAccessToken={"YOUR_ACCESS_TOKEN"}
+
+https://account.mapbox.com/ (access token)
